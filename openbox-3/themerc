@@ -1,0 +1,23 @@
+# Window Geometry
+padding.width: 5
+padding.height: 5
+border.width: 2
+
+window.active.border.color: #00FF00
+window.active.title.bg: Solid Flat
+window.active.title.bg.color: #0000FF
+window.active.label.bg: Solid Flat
+window.active.label.bg.color: #FFFFFF
+window.active.label.text.color: #f1c40f
+window.active.button.unpressed.bg: Solid Flat
+window.active.button.unpressed.bg.color: #8e44ad
+window.active.button.unpressed.image.color: #d35400
+window.active.handle.bg: Solid Flat
+window.active.handle.bg.color: #FF0000
+window.active.grip.bg: Solid Flat
+window.active.grip.bg.color: #FCF000
+window.active.client.color: #e74c3c
+
+window.client.padding.width: 5
+window.client.padding.height: 5
+window.handle.width: 10
